@@ -63,7 +63,7 @@ if __name__ == '__main__':
                 print("Setting led to OFF")
                 led1.off()
             elif data == "exit":
-                break;
+                break
             else:
                 print("Ignoring message")
 
